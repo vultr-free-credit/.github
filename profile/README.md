@@ -9,7 +9,7 @@ Are you searching for a working **Vultr coupon** or the latest **Vultr promo** t
 
 The **Vultr free trial** is a limited-time offer designed to help new users explore Vultr’s powerful cloud hosting — without upfront costs. With the right **Vultr promo code**, you can unlock the following:
 
-- 🟢 **$300 in free credit** (valid for 30 days)  
+- 🟢 **$300 in free credit** 
 - 🟢 **$200 deposit match** (valid for 12 months)  
 - 🟢 **Bonus credit** from social media campaigns  
 
@@ -31,8 +31,8 @@ This offer applies across Vultr’s full suite of services:
 
 | Offer               | Vultr Promo Code     | Validity     | Description                         |
 |--------------------|----------------------|--------------|-------------------------------------|
-| **$300 Free Trial Credit** | `FLY300VULTR`     | 30 days      | Ideal for testing or short-term use |
-| **$250 Credit**     | `250VULTRFLY`         | 30 days      | Alternative full-credit trial       |
+| **$300 Free Trial Credit** | `FLY300VULTR`     | depends      | Ideal for testing or short-term use |
+| **$250 Credit**     | `250VULTRFLY`         | depends      | Alternative full-credit trial       |
 | **$200 Match Promo**| `VULTRMATCH`          | 12 months    | Best for long-term projects         |
 | **$3 Bonus Credit** | Twitter Campaign      | 1 year       | Based on social engagement          |
 
@@ -76,7 +76,7 @@ Comparing the **Vultr free trial** with alternatives:
 
 | Cloud Provider     | Free Credit Offer          | Validity         | Best Use Case                        |
 |--------------------|-----------------------------|------------------|--------------------------------------|
-| **Vultr**           | $300 free trial, $200 match| 30 days / 12 mo. | Best for devs, AI, VPS testing       |
+| **Vultr**           | $300 free trial, $200 match| Depends / 12 mo. | Best for devs, AI, VPS testing       |
 | **DigitalOcean**    | $200 Free Credit           | 60 days          | Easy-to-use platform for beginners   |
 | **Linode (Akamai)** | $100 Free Credit           | 60 days          | Reliable basic cloud hosting         |
 | **Cloudways**       | $30 Trial Credit           | 30 days          | Managed WordPress & Laravel hosting |
