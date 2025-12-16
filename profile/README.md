@@ -135,7 +135,7 @@ The **Vultr free trial** typically lasts 30 to 60 days. If you decide to stay, f
 3.  **Snapshotting:** If you aren't ready to pay yet, take a Snapshot of your server and then destroy the instance. Snapshots cost pennies per month to store, allowing you to redeploy your server later when you are ready.
 
 ---
-## Vultr review - Overrall Balanced 
+## Vultr review - Overall Balanced
 We tested Vultr to check their speed and benchmark scores. In our experience, Vultr is faster and more affordable than DigitalOcean. Some of their VPS servers have connection speeds like 3 Gbps, which impressed us. 
 
 Regarding drawbacks, Vultr's customer support can be improved. We didn't face any issues that affected our server, but we feel general support could be faster.
