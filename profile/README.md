@@ -142,13 +142,32 @@ Regarding drawbacks, Vultr's customer support can be improved. We didn't face an
 
 
 ---
+
+## Frequently Asked Questions (FAQ)
+
+### Can I get the Vultr free trial without a credit card?
+No. Vultr requires a valid credit card or PayPal account to verify your identity and prevent spam. You will not be charged as long as you stay within the free credit limits.
+
+### How long does the Vultr $300 credit last?
+The standard duration for the $300 credit is **30 days**. However, if you choose the "Deposit Match" offer (`VULTRMATCH`), your matched credits are valid for **12 months**.
+
+### What happens when my Vultr free credit expires?
+Any active instances will continue running, and you will begin to be billed at the standard hourly rate. We recommend setting a reminder 2 days before your trial ends to delete any resources you no longer need.
+
+### Can existing customers use the Vultr promo codes?
+No. These codes (`FLY300VULTR`, `250VULTRFLY`) are strictly for **new accounts only**. Existing customers cannot apply these codes retroactively.
+
+### Does Vultr offer a "Forever Free" tier?
+Yes, Vultr recently launched a limited Free Tier program that offers a small 1 vCPU / 512MB RAM instance for eligible applicants. However, approval is manual and availability is limited compared to the instant $300 credit offer.
+
+---
 ## Summary: Is the Vultr Free Trial Worth It?
 
 The Vultr free trial is arguably the best offer in the cloud hosting market for 2025. The sheer amount of credit ($300) combined with access to high-performance hardware makes it unbeatable for testing.
 
 **Key Takeaways:**
-* **Generous Offer:** $300 in **Vultr free credits** allows for extensive testing.
-* **Versatile:** Use it for AI, Gaming, Web Hosting, or learning DevOps.
+* **Developer friendly:** $300 in **Vultr free credits** allows for extensive testing.
+* **Real trial:** Use it for AI, Gaming, Web Hosting, or learning DevOps.
 * **Risk-Free:** No charges if you stay within the credit limits and cancel/destroy instances before the trial ends.
 
 
